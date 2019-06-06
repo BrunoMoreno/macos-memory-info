@@ -6,7 +6,8 @@ I do it because we don't have the command #free like Linux distros.
 
 Usage:
 
-  $ python3 app.py
+
+    $ python3 app.py
 
 
 The MIT License (MIT)
